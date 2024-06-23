@@ -1,2 +1,2 @@
 # Obstacle-Avoiding-Robot
-i will ads some description hear
+The Obstacle Avoiding Robot is an intelligent device designed to autonomously navigate unknown environments by sensing and avoiding obstacles. Utilizing an ultrasonic sensor and Arduino UNO, the robot detects obstacles and adjusts its path to prevent collisions. This technology is essential for autonomous mobile robots, enabling applications in household automation and hazardous environments. The project incorporates components like BO Motors and an L298N Motor Driver Module to achieve efficient movement and obstacle avoidance.
